@@ -143,7 +143,7 @@ void loop() {
 
 ## 电路图设计
 
-![Arduino](D:\Users\yangshun\Documents\Arduino.BMP)
+![Arduino](Arduino.png)
 
 ## 使用方法
 
